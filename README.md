@@ -9,7 +9,7 @@
 ## Current Research
 - Antimalarial drug discovery & target identification
 - Infectious disease bioinformatics & pathogen genomics
-- MD simulations for drug target discovery
+- Molecular docking and MD simulations for drug target discovery
 
 ## Skills
 - **Languages:** R, Python, Bash
